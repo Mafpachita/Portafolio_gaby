@@ -39,7 +39,7 @@ body{
 
 .header_menu_link{
     font-family: var(--fuente-montserrat);
-    font-size: 30px;
+    font-size: 24px;
     font-weight: 600;
     color: var(--color-terciario);
     text-decoration: none;
@@ -85,17 +85,17 @@ body{
 
 .presentacion_enlaces_subtitulo{
     font-family: var(--fuente-krona);
-    font-size: 30px;
+    font-size: 20px;
     font-weight: 400px;
 }
 
 .presentacion_enlaces_link{
-    width: 50%;
+    width: 60%;
     text-align: center;
     padding: 21.5px 0;
     border-radius: 8px;
     font-family: var(--fuente-montserrat);
-    font-size: 30px;
+    font-size: 24px;
     font-weight: 600;
     text-decoration: none;
     color: var(--color-secundario);
@@ -114,14 +114,14 @@ body{
 }
 
 .presentacion__imagen{
-    width: 35%;
+    width: 45%;
 }
 
 
 .footer{
-    background-color: var(--color-hover);
-    padding: 30px;
-    color: var(--color-terciario);
+    background-color: var(--color-terciario);
+    padding: 35px;
+    color: var(--color-primario);
     text-align: center;
     font-family: var(--fuente-montserrat);
     font-size: 15px;
